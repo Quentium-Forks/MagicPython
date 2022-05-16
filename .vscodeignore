@@ -1,0 +1,11 @@
+.github/**
+**/src/**
+**/.gitignore
+**/.yarnrc
+**/.**
+**/*.py
+misc/**
+settings/**
+snippets/**
+test/**
+Makefile

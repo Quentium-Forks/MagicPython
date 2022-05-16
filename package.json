@@ -1,5 +1,5 @@
 {
-  "name": "MagicPython",
+  "name": "magicpython",
   "version": "1.1.1",
   "engines": {
     "atom": "*",
@@ -15,9 +15,9 @@
   },
   "description": "Syntax highlighter for cutting edge Python.",
   "license": "MIT",
-  "publisher": "magicstack",
+  "publisher": "QuentiumYT",
   "categories": [
-    "Languages"
+    "Programming Languages"
   ],
   "keywords": [
     "python",
@@ -72,8 +72,7 @@
     ]
   },
   "devDependencies": {
-    "oniguruma": "^7.0.0",
+    "oniguruma": "^7.2.3",
     "syntaxdev": "^0.1.3"
-  },
-  "dependencies": {}
+  }
 }
